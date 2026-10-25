@@ -1367,3 +1367,7 @@ not the specific names.
 
 Reviewers should reject new change-detector tests; authors should convert
 them into invariants before re-requesting review.
+
+## Coding standards
+
+Coding standards: follow [CODING_STANDARDS.md](CODING_STANDARDS.md) (from ScottLabs-DevStudio/engineering-standards). Answer every review thread before ship.
