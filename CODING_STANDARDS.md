@@ -2,6 +2,8 @@
 
 > Provenance: derived from [ScottLabs-DevStudio/engineering-standards@fa908f2](https://github.com/ScottLabs-DevStudio/engineering-standards/tree/fa908f2de931846e767d9562ce794c48103c93b7) (base + add-ons: python, shell-infra), which adapts [microsoft/hve-core@6cd810c](https://github.com/microsoft/hve-core/tree/6cd810c7b9448d98ea07db0a7a9124824d32dacc) (`6cd810c7b9448d98ea07db0a7a9124824d32dacc`, MIT, text only). Repo-specific rules added below take precedence.
 
+Vendored or upstream code (copied from another project) is exempt from these standards; apply them to our own changes only.
+
 
 Repo-neutral rules for ScottLabs-DevStudio repositories. Repo-specific rules mined from a repo's own PRs take precedence where they differ.
 
